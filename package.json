@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/joeldenning/wds-port-bug#readme",
   "devDependencies": {
-    "concurrently": "^5.3.0",
+    "concurrently": "^6.1.0",
     "http-server": "^0.12.3",
-    "webpack": "^5.8.0",
-    "webpack-cli": "^4.2.0",
-    "webpack-dev-server": "^4.0.0-beta.0"
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^4.0.0-beta.3"
   }
 }
